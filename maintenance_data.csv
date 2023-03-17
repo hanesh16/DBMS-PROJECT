@@ -1,0 +1,984 @@
+request_id,tenant_id,issue_name,employee_id,rating
+1,3,Dishhwasher Issue,17,5
+2,48,Serving Issue,23,4
+3,106,Food Quality Issue,24,4
+4,110,Serving Issue,22,3
+5,121,Lights Issue,17,4
+6,52,Heater Issue,17,5
+7,67,Kitchen Sink Issue,6,3
+8,99,Payment Issue,2,4
+9,5,Delivey Package Problem,3,5
+10,105,Flush Issue,7,2
+11,6,CC Camera Issue,19,3
+12,18,Access Key Problem,4,4
+13,25,Access Key Problem,2,3
+14,102,Food Quality Issue,23,5
+15,20,Delivey Package Problem,3,2
+16,69,CC Camera Issue,20,3
+17,21,Fire Alarm Issue,20,5
+18,31,Food Quality Issue,22,2
+19,106,Dishhwasher Issue,16,2
+20,52,Access Key Problem,3,4
+21,98,CC Camera Issue,21,2
+22,124,Flush Issue,5,3
+23,53,Lights Issue,17,3
+24,15,Access Key Problem,3,4
+25,19,Serving Issue,23,4
+26,19,Heater Issue,18,3
+27,1,Food Price Issue,25,4
+28,7,Heater Issue,17,2
+29,129,Dishhwasher Issue,18,4
+30,25,Fire Alarm Issue,19,3
+31,77,Delivey Package Problem,4,4
+32,123,Lights Issue,16,2
+33,113,Flush Issue,6,2
+34,70,Payment Issue,3,4
+35,25,CC Camera Issue,19,2
+36,17,Flush Issue,8,2
+37,119,Lights Issue,17,4
+38,113,Trash Can Issue,11,5
+39,39,Dishhwasher Issue,15,2
+40,5,Access Key Problem,2,3
+41,42,Lift Issue,20,3
+42,50,Lift Issue,19,5
+43,89,Trash Can Issue,10,2
+44,42,Flush Issue,10,2
+45,83,Lights Issue,15,5
+46,88,Lights Issue,17,4
+47,115,Dishhwasher Issue,17,2
+48,6,Lift Issue,21,3
+49,95,Access Key Problem,4,4
+50,97,Lights Issue,16,3
+51,109,Dishhwasher Issue,14,4
+52,129,Lights Issue,15,4
+53,118,Access Key Problem,3,2
+54,5,CC Camera Issue,21,5
+55,64,Delivey Package Problem,4,2
+56,125,Food Price Issue,22,4
+57,118,Flush Issue,5,2
+58,92,Payment Issue,3,4
+59,7,Lights Issue,13,5
+60,9,Heater Issue,16,2
+61,89,Fire Alarm Issue,19,2
+62,55,Heater Issue,14,4
+63,9,Dishhwasher Issue,13,3
+64,97,Trash Can Issue,11,2
+65,87,Delivey Package Problem,2,4
+66,4,Payment Issue,2,3
+67,96,Trash Can Issue,11,2
+68,34,Trash Can Issue,9,3
+69,30,Trash Can Issue,9,5
+70,6,Food Quality Issue,25,2
+71,128,Delivey Package Problem,4,4
+72,22,Kitchen Sink Issue,7,3
+73,86,Food Price Issue,22,5
+74,79,Serving Issue,24,2
+75,58,Delivey Package Problem,2,4
+76,53,Food Quality Issue,22,4
+77,66,Fire Alarm Issue,21,2
+78,15,Delivey Package Problem,1,4
+79,97,Food Quality Issue,24,3
+80,95,Trash Can Issue,9,2
+81,83,CC Camera Issue,19,3
+82,13,Delivey Package Problem,1,3
+83,3,Serving Issue,25,5
+84,10,CC Camera Issue,21,5
+85,54,Trash Can Issue,7,4
+86,4,Serving Issue,25,2
+87,115,Lights Issue,14,5
+88,49,Payment Issue,4,2
+89,88,Food Quality Issue,25,5
+90,59,Dishhwasher Issue,17,4
+91,53,Delivey Package Problem,3,3
+92,98,Fire Alarm Issue,21,3
+93,69,Food Quality Issue,24,2
+94,14,Delivey Package Problem,4,3
+95,45,Payment Issue,4,2
+96,7,Lift Issue,21,5
+97,71,Dishhwasher Issue,16,2
+98,95,Kitchen Sink Issue,11,3
+99,124,Lights Issue,17,5
+100,51,Heater Issue,15,3
+101,78,Flush Issue,6,5
+102,93,Lights Issue,16,3
+103,129,Flush Issue,6,5
+104,111,Food Quality Issue,22,5
+105,61,CC Camera Issue,21,3
+106,18,Lift Issue,19,3
+107,80,CC Camera Issue,21,5
+108,56,Lift Issue,19,2
+109,117,Dishhwasher Issue,13,3
+110,74,Flush Issue,11,4
+111,112,Trash Can Issue,6,4
+112,13,Lights Issue,13,4
+113,76,Heater Issue,18,5
+114,29,Payment Issue,3,3
+115,124,Trash Can Issue,12,3
+116,73,Heater Issue,16,2
+117,27,Delivey Package Problem,1,4
+118,59,Lift Issue,21,4
+119,64,Lift Issue,19,2
+120,16,Food Price Issue,24,5
+121,78,Food Price Issue,23,3
+122,34,Fire Alarm Issue,19,2
+123,21,Lift Issue,21,2
+124,108,Fire Alarm Issue,21,3
+125,31,Trash Can Issue,8,5
+126,31,Serving Issue,25,3
+127,56,Dishhwasher Issue,17,3
+128,92,Delivey Package Problem,3,2
+129,88,Fire Alarm Issue,21,3
+130,73,CC Camera Issue,21,4
+131,21,Kitchen Sink Issue,7,5
+132,42,Access Key Problem,4,4
+133,40,Access Key Problem,3,2
+134,48,Lights Issue,15,5
+135,8,Trash Can Issue,12,3
+136,92,Lift Issue,19,3
+137,13,Delivey Package Problem,1,4
+138,104,Flush Issue,7,5
+139,114,Lift Issue,20,2
+140,33,Serving Issue,25,5
+141,20,Food Quality Issue,25,5
+142,11,CC Camera Issue,19,2
+143,94,Dishhwasher Issue,17,3
+144,96,Food Price Issue,22,2
+145,100,Serving Issue,25,3
+146,68,Trash Can Issue,7,3
+147,104,Food Price Issue,22,3
+148,85,Flush Issue,11,2
+149,57,Payment Issue,3,5
+150,114,Delivey Package Problem,1,4
+151,103,Fire Alarm Issue,21,5
+152,8,Delivey Package Problem,3,5
+153,18,Serving Issue,25,2
+154,103,Heater Issue,14,2
+155,93,Fire Alarm Issue,21,2
+156,67,CC Camera Issue,20,3
+157,29,Fire Alarm Issue,19,4
+158,76,Lights Issue,18,5
+159,18,Kitchen Sink Issue,8,2
+160,37,Food Price Issue,23,5
+161,92,Fire Alarm Issue,21,5
+162,26,CC Camera Issue,20,4
+163,96,Dishhwasher Issue,15,5
+164,101,CC Camera Issue,19,3
+165,107,Food Price Issue,22,2
+166,126,Food Quality Issue,24,4
+167,60,Access Key Problem,2,3
+168,16,Dishhwasher Issue,13,2
+169,62,Delivey Package Problem,4,2
+170,33,Flush Issue,5,2
+171,14,Heater Issue,14,5
+172,76,Lift Issue,20,4
+173,81,Heater Issue,18,4
+174,70,Food Price Issue,24,5
+175,71,Lights Issue,14,2
+176,90,Lift Issue,20,5
+177,47,CC Camera Issue,19,2
+178,116,Kitchen Sink Issue,8,4
+179,110,Access Key Problem,1,3
+180,117,Access Key Problem,4,5
+181,90,Kitchen Sink Issue,11,2
+182,112,Delivey Package Problem,3,3
+183,71,Food Price Issue,25,5
+184,116,Lights Issue,14,4
+185,101,Payment Issue,1,4
+186,51,Trash Can Issue,6,3
+187,38,Fire Alarm Issue,21,4
+188,22,Trash Can Issue,5,5
+189,2,Access Key Problem,4,5
+190,106,Flush Issue,11,4
+191,103,Dishhwasher Issue,15,4
+192,2,Kitchen Sink Issue,9,3
+193,108,Food Quality Issue,23,4
+194,28,Fire Alarm Issue,21,2
+195,32,Flush Issue,10,4
+196,76,CC Camera Issue,21,2
+197,111,CC Camera Issue,19,5
+198,81,Trash Can Issue,11,5
+199,12,Flush Issue,6,3
+200,42,Delivey Package Problem,1,4
+201,10,CC Camera Issue,19,3
+202,97,Lights Issue,17,4
+203,24,Fire Alarm Issue,19,2
+204,26,Payment Issue,2,2
+205,59,CC Camera Issue,21,3
+206,56,CC Camera Issue,21,3
+207,47,Heater Issue,14,3
+208,37,Access Key Problem,3,3
+209,128,Access Key Problem,2,4
+210,33,Dishhwasher Issue,16,4
+211,18,Payment Issue,3,4
+212,61,Delivey Package Problem,3,2
+213,103,CC Camera Issue,19,4
+214,86,Kitchen Sink Issue,8,5
+215,22,Heater Issue,14,4
+216,41,CC Camera Issue,19,3
+217,39,Trash Can Issue,5,4
+218,31,Delivey Package Problem,3,4
+219,43,CC Camera Issue,19,4
+220,27,Food Quality Issue,22,2
+221,51,Heater Issue,14,5
+222,90,Trash Can Issue,7,5
+223,90,Lift Issue,20,5
+224,126,Lights Issue,15,4
+225,32,Food Quality Issue,22,3
+226,20,Serving Issue,25,2
+227,11,Fire Alarm Issue,19,4
+228,19,Heater Issue,14,3
+229,87,Lights Issue,14,3
+230,23,Fire Alarm Issue,19,2
+231,103,Kitchen Sink Issue,6,3
+232,49,Access Key Problem,4,5
+233,124,Payment Issue,1,4
+234,63,Kitchen Sink Issue,5,2
+235,70,Payment Issue,3,5
+236,128,Delivey Package Problem,3,2
+237,25,Lights Issue,16,2
+238,60,Food Quality Issue,22,2
+239,92,Delivey Package Problem,4,3
+240,117,Trash Can Issue,10,4
+241,44,Trash Can Issue,6,2
+242,81,Payment Issue,3,5
+243,113,Heater Issue,14,3
+244,88,Food Quality Issue,23,2
+245,98,Kitchen Sink Issue,10,4
+246,36,CC Camera Issue,19,3
+247,117,Lift Issue,19,4
+248,121,Lights Issue,15,4
+249,29,Trash Can Issue,10,2
+250,23,Payment Issue,3,5
+251,37,CC Camera Issue,21,2
+252,68,Heater Issue,15,5
+253,50,Access Key Problem,1,3
+254,115,Flush Issue,10,3
+255,107,Lights Issue,14,5
+256,112,Food Price Issue,25,2
+257,2,Food Price Issue,24,4
+258,127,Trash Can Issue,8,5
+259,37,Flush Issue,9,2
+260,50,Trash Can Issue,7,5
+261,22,Dishhwasher Issue,15,5
+262,46,Fire Alarm Issue,19,5
+263,43,Serving Issue,25,5
+264,91,Lift Issue,20,5
+265,91,Payment Issue,4,2
+266,35,Serving Issue,24,3
+267,19,Dishhwasher Issue,18,2
+268,53,Fire Alarm Issue,20,4
+269,87,Dishhwasher Issue,14,4
+270,4,Dishhwasher Issue,16,4
+271,114,Serving Issue,24,2
+272,5,Payment Issue,3,5
+273,107,Delivey Package Problem,4,2
+274,79,Flush Issue,12,3
+275,19,Food Price Issue,24,4
+276,33,Serving Issue,23,4
+277,30,Lift Issue,20,5
+278,110,Dishhwasher Issue,18,4
+279,52,Delivey Package Problem,4,3
+280,117,Food Price Issue,25,4
+281,107,Dishhwasher Issue,14,2
+282,10,Heater Issue,13,3
+283,54,Access Key Problem,4,2
+284,123,Heater Issue,16,3
+285,52,Trash Can Issue,10,5
+286,108,Lights Issue,17,4
+287,89,Food Quality Issue,25,4
+288,111,Food Price Issue,23,5
+289,96,Flush Issue,8,2
+290,95,Serving Issue,24,3
+291,100,Serving Issue,22,4
+292,30,Fire Alarm Issue,20,3
+293,64,Dishhwasher Issue,16,3
+294,91,Fire Alarm Issue,20,2
+295,119,Payment Issue,3,5
+296,11,Lift Issue,21,2
+297,57,Trash Can Issue,12,4
+298,80,Food Price Issue,24,2
+299,85,Lights Issue,15,5
+300,85,Fire Alarm Issue,19,5
+301,119,Access Key Problem,2,3
+302,124,Flush Issue,5,5
+303,54,CC Camera Issue,20,2
+304,87,Food Price Issue,25,2
+305,60,Flush Issue,7,2
+306,11,Serving Issue,23,4
+307,47,Kitchen Sink Issue,11,5
+308,31,Lift Issue,21,5
+309,5,Food Quality Issue,25,4
+310,56,Delivey Package Problem,1,4
+311,89,Delivey Package Problem,3,2
+312,31,Lights Issue,17,4
+313,13,Kitchen Sink Issue,5,5
+314,110,Food Price Issue,25,4
+315,85,Heater Issue,15,5
+316,119,Serving Issue,23,4
+317,5,Access Key Problem,4,5
+318,109,Trash Can Issue,10,3
+319,3,Lift Issue,20,2
+320,29,Food Quality Issue,22,5
+321,74,Food Quality Issue,25,2
+322,72,Flush Issue,7,2
+323,65,Access Key Problem,4,3
+324,32,Kitchen Sink Issue,9,4
+325,28,Lift Issue,21,5
+326,41,Food Price Issue,25,2
+327,43,Kitchen Sink Issue,6,5
+328,36,Trash Can Issue,9,2
+329,38,Lift Issue,21,5
+330,99,Fire Alarm Issue,21,4
+331,42,Fire Alarm Issue,20,3
+332,90,Fire Alarm Issue,21,4
+333,36,Access Key Problem,3,4
+334,39,CC Camera Issue,21,5
+335,24,Kitchen Sink Issue,12,2
+336,54,Food Quality Issue,23,3
+337,24,Lights Issue,14,3
+338,54,Fire Alarm Issue,20,4
+339,45,Flush Issue,12,2
+340,105,Lights Issue,15,3
+341,57,Food Price Issue,24,5
+342,47,Flush Issue,7,4
+343,65,Delivey Package Problem,1,4
+344,86,Fire Alarm Issue,20,2
+345,59,Trash Can Issue,10,2
+346,21,Flush Issue,9,3
+347,110,Lift Issue,21,3
+348,62,Serving Issue,25,5
+349,68,Delivey Package Problem,1,3
+350,107,Serving Issue,25,5
+351,30,Delivey Package Problem,2,4
+352,111,Access Key Problem,1,3
+353,105,Delivey Package Problem,1,5
+354,39,Delivey Package Problem,2,5
+355,20,CC Camera Issue,21,5
+356,57,Food Price Issue,25,5
+357,37,Heater Issue,14,4
+358,68,Flush Issue,5,4
+359,121,CC Camera Issue,21,5
+360,89,Dishhwasher Issue,16,5
+361,55,Heater Issue,13,5
+362,100,Heater Issue,15,4
+363,102,Lights Issue,17,4
+364,66,CC Camera Issue,20,4
+365,87,Delivey Package Problem,4,3
+366,53,Trash Can Issue,12,3
+367,43,Delivey Package Problem,4,4
+368,59,Fire Alarm Issue,21,5
+369,112,Food Quality Issue,25,4
+370,20,Fire Alarm Issue,21,4
+371,84,Heater Issue,16,3
+372,101,Payment Issue,1,4
+373,84,Lights Issue,15,2
+374,94,Lift Issue,21,4
+375,38,Food Quality Issue,25,5
+376,100,CC Camera Issue,20,2
+377,120,Payment Issue,4,4
+378,7,Food Quality Issue,22,3
+379,35,Food Quality Issue,25,5
+380,3,Lights Issue,15,3
+381,98,CC Camera Issue,19,3
+382,4,Food Price Issue,24,3
+383,108,Delivey Package Problem,3,5
+384,116,Food Quality Issue,22,5
+385,127,Access Key Problem,2,5
+386,30,Delivey Package Problem,2,3
+387,61,Food Price Issue,23,4
+388,58,Lights Issue,17,4
+389,122,Trash Can Issue,9,2
+390,98,Delivey Package Problem,1,2
+391,62,Serving Issue,23,4
+392,40,Food Price Issue,22,4
+393,105,Food Quality Issue,25,3
+394,17,CC Camera Issue,20,3
+395,120,Fire Alarm Issue,20,2
+396,84,Trash Can Issue,5,2
+397,40,Food Quality Issue,22,3
+398,65,Dishhwasher Issue,15,2
+399,109,Delivey Package Problem,2,4
+400,1,Dishhwasher Issue,14,5
+401,41,Access Key Problem,4,2
+402,77,Lights Issue,14,2
+403,105,Food Quality Issue,24,2
+404,120,CC Camera Issue,20,3
+405,44,Access Key Problem,1,5
+406,92,Food Price Issue,22,5
+407,42,Dishhwasher Issue,17,3
+408,55,Lift Issue,20,3
+409,26,Trash Can Issue,9,2
+410,72,Food Price Issue,25,4
+411,49,Access Key Problem,1,3
+412,8,Payment Issue,1,2
+413,17,Access Key Problem,1,4
+414,21,Heater Issue,13,4
+415,102,Food Price Issue,23,2
+416,55,Flush Issue,11,3
+417,75,Flush Issue,10,3
+418,82,Food Price Issue,22,3
+419,10,Food Price Issue,22,5
+420,5,Lift Issue,20,2
+421,101,Dishhwasher Issue,14,3
+422,32,Food Price Issue,25,3
+423,64,CC Camera Issue,19,3
+424,43,Food Price Issue,22,3
+425,86,Delivey Package Problem,2,5
+426,129,Fire Alarm Issue,20,5
+427,115,Heater Issue,18,4
+428,87,Lift Issue,20,4
+429,93,Payment Issue,2,5
+430,55,Access Key Problem,1,4
+431,40,Flush Issue,11,2
+432,88,Trash Can Issue,7,4
+433,6,Serving Issue,23,5
+434,92,Dishhwasher Issue,17,4
+435,103,Lights Issue,14,3
+436,51,Fire Alarm Issue,19,2
+437,40,Access Key Problem,1,3
+438,15,Food Quality Issue,25,3
+439,26,Food Quality Issue,22,2
+440,39,Flush Issue,6,3
+441,84,Access Key Problem,2,4
+442,32,Delivey Package Problem,1,4
+443,28,Dishhwasher Issue,14,3
+444,94,Dishhwasher Issue,18,5
+445,119,Flush Issue,11,2
+446,8,Flush Issue,8,2
+447,12,Delivey Package Problem,4,4
+448,94,Food Quality Issue,24,2
+449,68,Food Price Issue,23,2
+450,93,Food Quality Issue,22,4
+451,1,Lights Issue,18,4
+452,87,Food Price Issue,23,3
+453,118,Food Quality Issue,23,5
+454,34,Serving Issue,24,5
+455,61,Payment Issue,4,2
+456,53,CC Camera Issue,21,3
+457,69,Food Price Issue,22,3
+458,47,Dishhwasher Issue,18,4
+459,45,Food Price Issue,22,5
+460,18,Trash Can Issue,9,2
+461,33,Trash Can Issue,7,3
+462,118,CC Camera Issue,19,4
+463,115,Lights Issue,13,5
+464,69,Lift Issue,20,5
+465,60,Payment Issue,3,2
+466,95,Payment Issue,4,5
+467,58,Fire Alarm Issue,21,2
+468,3,Flush Issue,7,4
+469,99,Lift Issue,21,4
+470,43,Payment Issue,4,3
+471,8,Food Price Issue,25,5
+472,10,Dishhwasher Issue,14,5
+473,25,Access Key Problem,3,2
+474,63,Lift Issue,21,3
+475,117,Trash Can Issue,8,3
+476,109,Flush Issue,6,5
+477,82,Kitchen Sink Issue,11,2
+478,58,Serving Issue,24,5
+479,69,Heater Issue,14,3
+480,63,Lights Issue,17,5
+481,23,Fire Alarm Issue,21,4
+482,42,Dishhwasher Issue,14,5
+483,60,Lights Issue,15,5
+484,77,Heater Issue,13,4
+485,119,Payment Issue,4,5
+486,6,Serving Issue,23,4
+487,96,Lift Issue,20,5
+488,98,Delivey Package Problem,4,5
+489,56,Kitchen Sink Issue,7,5
+490,48,Serving Issue,23,3
+491,50,Dishhwasher Issue,14,5
+492,46,Serving Issue,23,4
+493,111,Serving Issue,24,5
+494,66,Payment Issue,3,4
+495,65,Food Price Issue,22,3
+496,34,Delivey Package Problem,1,4
+497,42,Payment Issue,3,3
+498,52,Dishhwasher Issue,18,2
+499,44,Flush Issue,9,4
+500,7,CC Camera Issue,21,5
+501,4,Flush Issue,11,2
+502,73,CC Camera Issue,19,2
+503,40,Food Quality Issue,25,2
+504,116,Lights Issue,14,5
+505,25,Trash Can Issue,11,2
+506,86,Delivey Package Problem,3,2
+507,78,Lights Issue,17,3
+508,102,Serving Issue,23,3
+509,53,CC Camera Issue,21,4
+510,18,CC Camera Issue,20,5
+511,5,Fire Alarm Issue,20,5
+512,19,Payment Issue,2,3
+513,39,Food Price Issue,24,4
+514,81,Serving Issue,25,2
+515,128,Delivey Package Problem,2,2
+516,13,Delivey Package Problem,1,3
+517,102,Kitchen Sink Issue,9,3
+518,95,Access Key Problem,4,2
+519,29,Fire Alarm Issue,21,2
+520,126,Food Price Issue,23,3
+521,14,Access Key Problem,3,3
+522,16,Dishhwasher Issue,15,2
+523,75,Lights Issue,16,4
+524,74,Kitchen Sink Issue,9,5
+525,72,Dishhwasher Issue,16,2
+526,82,Kitchen Sink Issue,6,5
+527,111,Delivey Package Problem,2,2
+528,116,Heater Issue,14,4
+529,54,Food Price Issue,23,2
+530,117,Kitchen Sink Issue,11,3
+531,12,CC Camera Issue,21,3
+532,124,Heater Issue,16,3
+533,43,Dishhwasher Issue,14,5
+534,91,Fire Alarm Issue,20,3
+535,65,Lift Issue,21,5
+536,44,Delivey Package Problem,1,5
+537,72,Food Quality Issue,22,4
+538,52,Lift Issue,20,4
+539,37,Lights Issue,16,3
+540,11,Kitchen Sink Issue,9,5
+541,92,Food Price Issue,23,3
+542,89,Delivey Package Problem,4,2
+543,40,Delivey Package Problem,3,4
+544,66,Serving Issue,22,5
+545,61,Fire Alarm Issue,21,3
+546,8,Access Key Problem,3,5
+547,117,Serving Issue,22,3
+548,113,Lights Issue,15,5
+549,39,Serving Issue,25,5
+550,93,Kitchen Sink Issue,12,3
+551,106,Dishhwasher Issue,15,3
+552,95,Delivey Package Problem,3,4
+553,80,Access Key Problem,3,4
+554,24,Lift Issue,20,4
+555,7,Lift Issue,21,3
+556,115,Fire Alarm Issue,21,2
+557,64,Food Quality Issue,25,2
+558,105,Fire Alarm Issue,21,4
+559,123,Flush Issue,6,2
+560,99,Flush Issue,7,2
+561,74,Access Key Problem,1,2
+562,98,Food Quality Issue,23,3
+563,15,Heater Issue,13,3
+564,85,Lift Issue,20,5
+565,7,Food Price Issue,24,2
+566,43,Access Key Problem,3,4
+567,101,Flush Issue,12,2
+568,35,Payment Issue,1,2
+569,47,Kitchen Sink Issue,5,5
+570,13,Lights Issue,13,4
+571,74,Lights Issue,13,5
+572,121,Payment Issue,2,3
+573,17,Dishhwasher Issue,18,4
+574,16,Kitchen Sink Issue,12,4
+575,122,Heater Issue,13,4
+576,69,Fire Alarm Issue,19,3
+577,81,Access Key Problem,1,2
+578,28,Payment Issue,2,2
+579,123,Heater Issue,18,4
+580,107,Access Key Problem,3,4
+581,55,Lift Issue,19,3
+582,92,Trash Can Issue,10,2
+583,44,Food Price Issue,24,4
+584,123,Access Key Problem,1,3
+585,90,Lift Issue,21,5
+586,24,CC Camera Issue,20,4
+587,74,Food Price Issue,24,2
+588,126,Flush Issue,6,5
+589,71,Lift Issue,19,3
+590,46,Access Key Problem,2,3
+591,50,Serving Issue,24,3
+592,5,Food Quality Issue,23,4
+593,15,CC Camera Issue,21,3
+594,108,Payment Issue,2,3
+595,66,Serving Issue,24,2
+596,97,Delivey Package Problem,2,3
+597,27,Heater Issue,17,2
+598,9,Kitchen Sink Issue,6,2
+599,55,Food Quality Issue,23,4
+600,106,Lights Issue,16,5
+601,113,Lift Issue,21,5
+602,26,Trash Can Issue,10,5
+603,88,Fire Alarm Issue,19,5
+604,20,Dishhwasher Issue,16,4
+605,70,Fire Alarm Issue,21,2
+606,102,Trash Can Issue,11,2
+607,77,Serving Issue,22,2
+608,73,CC Camera Issue,21,2
+609,86,Trash Can Issue,5,3
+610,15,Serving Issue,25,2
+611,62,Trash Can Issue,9,3
+612,82,Serving Issue,25,5
+613,94,Delivey Package Problem,2,4
+614,4,Fire Alarm Issue,21,5
+615,52,Payment Issue,1,4
+616,37,Serving Issue,24,3
+617,1,Trash Can Issue,10,5
+618,59,Food Quality Issue,24,3
+619,83,Fire Alarm Issue,20,4
+620,19,Lights Issue,18,4
+621,78,Flush Issue,8,4
+622,2,Lights Issue,13,4
+623,42,Kitchen Sink Issue,5,2
+624,67,Lights Issue,15,3
+625,119,Flush Issue,6,2
+626,49,Delivey Package Problem,2,4
+627,57,Heater Issue,16,2
+628,99,Heater Issue,13,5
+629,112,Lift Issue,19,2
+630,86,Dishhwasher Issue,15,2
+631,63,Fire Alarm Issue,21,3
+632,118,Heater Issue,16,2
+633,34,Kitchen Sink Issue,7,5
+634,63,CC Camera Issue,19,2
+635,76,Lift Issue,20,3
+636,73,Serving Issue,23,4
+637,18,Kitchen Sink Issue,5,5
+638,25,Fire Alarm Issue,20,4
+639,10,Trash Can Issue,8,3
+640,36,Heater Issue,13,5
+641,2,Serving Issue,25,5
+642,110,Trash Can Issue,11,2
+643,13,Serving Issue,23,3
+644,7,Heater Issue,14,5
+645,66,Payment Issue,4,5
+646,121,Access Key Problem,2,2
+647,51,Kitchen Sink Issue,12,4
+648,26,CC Camera Issue,20,5
+649,78,Fire Alarm Issue,20,3
+650,14,Food Price Issue,22,2
+651,93,Payment Issue,3,3
+652,26,Trash Can Issue,12,5
+653,61,Heater Issue,15,3
+654,30,Fire Alarm Issue,19,3
+655,80,Lift Issue,19,4
+656,106,Fire Alarm Issue,21,5
+657,116,Lights Issue,16,4
+658,128,Fire Alarm Issue,21,3
+659,88,Kitchen Sink Issue,11,2
+660,22,CC Camera Issue,21,2
+661,18,Trash Can Issue,6,2
+662,93,Lights Issue,15,5
+663,104,Serving Issue,23,4
+664,117,Lights Issue,15,5
+665,40,Lift Issue,21,4
+666,38,Lift Issue,20,2
+667,49,Food Quality Issue,23,4
+668,19,Serving Issue,23,2
+669,128,CC Camera Issue,21,4
+670,67,Food Quality Issue,24,5
+671,108,Food Price Issue,22,3
+672,126,Lights Issue,18,4
+673,128,Access Key Problem,1,4
+674,46,Food Price Issue,25,5
+675,102,Access Key Problem,3,4
+676,29,Flush Issue,12,4
+677,72,CC Camera Issue,20,4
+678,56,Food Quality Issue,23,2
+679,112,Flush Issue,12,4
+680,104,Access Key Problem,1,4
+681,39,Serving Issue,24,4
+682,21,Heater Issue,16,3
+683,67,Heater Issue,18,2
+684,80,Fire Alarm Issue,21,5
+685,64,Access Key Problem,3,4
+686,11,Payment Issue,4,4
+687,63,Serving Issue,25,5
+688,97,Food Quality Issue,25,3
+689,32,Lights Issue,18,4
+690,38,Lights Issue,16,2
+691,35,Kitchen Sink Issue,7,4
+692,58,Lift Issue,20,3
+693,91,Trash Can Issue,6,2
+694,43,Trash Can Issue,9,5
+695,9,Heater Issue,13,2
+696,22,Dishhwasher Issue,13,5
+697,49,Delivey Package Problem,4,3
+698,125,Food Quality Issue,24,4
+699,125,Delivey Package Problem,3,4
+700,106,Flush Issue,11,4
+701,118,Food Quality Issue,24,5
+702,118,Kitchen Sink Issue,12,4
+703,4,Fire Alarm Issue,21,4
+704,122,Lift Issue,20,5
+705,37,Dishhwasher Issue,15,4
+706,23,CC Camera Issue,20,5
+707,108,CC Camera Issue,20,2
+708,100,Food Quality Issue,24,5
+709,76,Flush Issue,8,3
+710,79,Kitchen Sink Issue,10,3
+711,104,Lights Issue,15,3
+712,35,CC Camera Issue,20,5
+713,96,Trash Can Issue,10,3
+714,126,Food Quality Issue,25,3
+715,83,Lift Issue,19,5
+716,3,Dishhwasher Issue,17,5
+717,6,Lights Issue,16,4
+718,90,Access Key Problem,3,2
+719,6,Access Key Problem,1,4
+720,121,Payment Issue,2,4
+721,46,Serving Issue,23,5
+722,101,Dishhwasher Issue,15,5
+723,73,Fire Alarm Issue,20,2
+724,104,Fire Alarm Issue,20,4
+725,46,CC Camera Issue,21,2
+726,71,Lift Issue,20,2
+727,41,Access Key Problem,4,4
+728,80,Payment Issue,3,5
+729,70,Heater Issue,16,3
+730,116,Access Key Problem,4,5
+731,90,CC Camera Issue,19,3
+732,44,Food Quality Issue,22,5
+733,129,Access Key Problem,4,4
+734,10,Trash Can Issue,6,5
+735,45,Food Quality Issue,24,3
+736,24,Food Price Issue,22,3
+737,127,Trash Can Issue,6,2
+738,81,Lift Issue,20,4
+739,79,Food Price Issue,23,5
+740,48,Access Key Problem,1,3
+741,70,Payment Issue,4,2
+742,37,Payment Issue,4,4
+743,45,Kitchen Sink Issue,9,2
+744,59,CC Camera Issue,20,4
+745,54,Heater Issue,17,5
+746,52,Flush Issue,6,4
+747,108,Payment Issue,2,5
+748,84,Heater Issue,14,3
+749,20,CC Camera Issue,19,5
+750,36,Heater Issue,17,5
+751,91,Fire Alarm Issue,21,3
+752,30,Trash Can Issue,11,5
+753,109,CC Camera Issue,19,2
+754,27,Kitchen Sink Issue,10,3
+755,73,Lift Issue,20,4
+756,120,Payment Issue,1,4
+757,47,Dishhwasher Issue,14,3
+758,125,CC Camera Issue,21,4
+759,97,Serving Issue,23,3
+760,6,Kitchen Sink Issue,5,5
+761,103,Serving Issue,23,4
+762,76,Lights Issue,15,5
+763,12,Lift Issue,19,3
+764,107,Fire Alarm Issue,19,2
+765,74,Heater Issue,18,4
+766,27,Serving Issue,25,2
+767,24,Trash Can Issue,9,3
+768,122,Lights Issue,17,5
+769,127,Trash Can Issue,8,5
+770,9,Food Quality Issue,24,3
+771,103,Trash Can Issue,9,3
+772,72,Flush Issue,11,5
+773,51,Delivey Package Problem,3,2
+774,28,Kitchen Sink Issue,5,2
+775,51,CC Camera Issue,19,4
+776,16,Kitchen Sink Issue,6,4
+777,114,Flush Issue,10,4
+778,28,CC Camera Issue,19,3
+779,95,Kitchen Sink Issue,9,4
+780,71,Payment Issue,2,4
+781,104,Lift Issue,19,2
+782,36,Kitchen Sink Issue,7,5
+783,10,CC Camera Issue,21,4
+784,57,Trash Can Issue,10,5
+785,57,Access Key Problem,1,2
+786,31,Payment Issue,3,3
+787,99,CC Camera Issue,19,4
+788,93,Dishhwasher Issue,15,2
+789,126,Kitchen Sink Issue,12,4
+790,33,Food Quality Issue,23,5
+791,119,Dishhwasher Issue,17,5
+792,14,Food Quality Issue,25,3
+793,21,Lift Issue,19,2
+794,14,Kitchen Sink Issue,11,3
+795,75,Trash Can Issue,5,4
+796,69,CC Camera Issue,19,5
+797,78,Food Price Issue,23,5
+798,122,Heater Issue,15,2
+799,1,CC Camera Issue,20,4
+800,89,Dishhwasher Issue,17,4
+801,1,CC Camera Issue,20,2
+802,9,Fire Alarm Issue,20,3
+803,116,Payment Issue,2,2
+804,38,Access Key Problem,1,3
+805,70,Food Price Issue,23,5
+806,53,Payment Issue,4,5
+807,75,Trash Can Issue,12,2
+808,127,Access Key Problem,4,5
+809,25,Kitchen Sink Issue,10,5
+810,8,Lights Issue,13,3
+811,113,Food Quality Issue,22,5
+812,68,Heater Issue,13,5
+813,16,Food Price Issue,25,5
+814,67,Lift Issue,20,2
+815,44,Flush Issue,5,2
+816,15,Access Key Problem,2,4
+817,115,Lift Issue,20,4
+818,71,Serving Issue,23,3
+819,17,Delivey Package Problem,3,5
+820,72,Trash Can Issue,5,2
+821,46,Lights Issue,14,2
+822,9,Serving Issue,24,2
+823,95,Heater Issue,13,3
+824,66,Flush Issue,9,4
+825,22,Food Quality Issue,22,4
+826,32,CC Camera Issue,20,4
+827,125,Access Key Problem,3,3
+828,80,Payment Issue,3,5
+829,83,Trash Can Issue,8,5
+830,27,Kitchen Sink Issue,9,2
+831,64,Food Quality Issue,22,3
+832,100,Payment Issue,1,4
+833,20,Fire Alarm Issue,21,4
+834,55,Lights Issue,17,5
+835,25,Access Key Problem,1,4
+836,96,Kitchen Sink Issue,7,4
+837,7,Food Quality Issue,22,5
+838,110,Trash Can Issue,7,2
+839,115,Delivey Package Problem,1,4
+840,77,Food Quality Issue,22,3
+841,67,Trash Can Issue,12,2
+842,41,Heater Issue,15,5
+843,68,Dishhwasher Issue,13,2
+844,127,Fire Alarm Issue,21,2
+845,22,Access Key Problem,4,5
+846,88,Fire Alarm Issue,21,4
+847,9,Fire Alarm Issue,21,5
+848,84,Trash Can Issue,11,4
+849,36,Heater Issue,16,3
+850,15,CC Camera Issue,20,4
+851,64,Dishhwasher Issue,16,5
+852,94,Payment Issue,1,4
+853,70,Lights Issue,17,3
+854,127,Delivey Package Problem,1,5
+855,79,Flush Issue,8,4
+856,12,Food Price Issue,24,5
+857,1,Payment Issue,4,5
+858,23,Access Key Problem,2,4
+859,129,Access Key Problem,1,2
+860,12,Fire Alarm Issue,21,2
+861,100,Lift Issue,20,4
+862,59,Delivey Package Problem,3,4
+863,72,Payment Issue,1,5
+864,65,Dishhwasher Issue,17,3
+865,23,CC Camera Issue,20,5
+866,13,Fire Alarm Issue,20,2
+867,87,Dishhwasher Issue,18,2
+868,59,Delivey Package Problem,3,2
+869,50,Payment Issue,4,5
+870,83,Trash Can Issue,12,2
+871,44,Food Quality Issue,23,2
+872,36,Food Price Issue,25,3
+873,110,Trash Can Issue,9,3
+874,125,Trash Can Issue,5,4
+875,123,Access Key Problem,2,2
+876,85,CC Camera Issue,19,5
+877,70,Delivey Package Problem,1,2
+878,3,Lights Issue,13,4
+879,81,Payment Issue,2,4
+880,30,CC Camera Issue,19,5
+881,29,Kitchen Sink Issue,8,4
+882,122,Access Key Problem,1,4
+883,16,Flush Issue,10,5
+884,128,Access Key Problem,1,2
+885,47,Access Key Problem,4,4
+886,124,Delivey Package Problem,1,3
+887,34,Serving Issue,23,4
+888,118,Flush Issue,8,5
+889,115,Serving Issue,25,2
+890,24,Trash Can Issue,12,3
+891,75,Payment Issue,3,4
+892,87,Kitchen Sink Issue,8,4
+893,36,Fire Alarm Issue,19,2
+894,97,Delivey Package Problem,4,4
+895,23,Access Key Problem,4,2
+896,71,Payment Issue,1,3
+897,120,Access Key Problem,2,3
+898,120,Heater Issue,17,3
+899,77,Lift Issue,21,5
+900,126,Kitchen Sink Issue,9,5
+901,90,Dishhwasher Issue,13,5
+902,47,Food Quality Issue,25,3
+903,74,Kitchen Sink Issue,6,5
+904,51,Trash Can Issue,8,4
+905,41,Food Price Issue,23,3
+906,17,Delivey Package Problem,1,3
+907,100,CC Camera Issue,20,5
+908,54,Access Key Problem,3,2
+909,23,Heater Issue,15,5
+910,109,Access Key Problem,1,5
+911,62,Access Key Problem,3,2
+912,110,Trash Can Issue,10,3
+913,73,Serving Issue,25,3
+914,116,Lift Issue,20,2
+915,65,Delivey Package Problem,2,3
+916,103,Food Price Issue,24,4
+917,82,Delivey Package Problem,2,2
+918,75,Food Quality Issue,22,4
+919,82,Delivey Package Problem,2,3
+920,58,Serving Issue,24,4
+921,34,Food Quality Issue,22,2
+922,50,Lights Issue,15,4
+923,16,Access Key Problem,2,4
+924,48,Food Quality Issue,23,4
+925,68,Heater Issue,14,4
+926,27,Food Quality Issue,23,4
+927,26,Payment Issue,3,5
+928,80,Serving Issue,24,5
+929,127,Serving Issue,22,2
+930,45,Food Price Issue,23,2
+931,129,Dishhwasher Issue,16,2
+932,101,Serving Issue,24,5
+933,111,Serving Issue,23,2
+934,14,Heater Issue,17,4
+935,30,Serving Issue,22,4
+936,54,Fire Alarm Issue,20,5
+937,55,Trash Can Issue,9,3
+938,96,Dishhwasher Issue,17,3
+939,14,Payment Issue,4,4
+940,2,CC Camera Issue,19,4
+941,12,Dishhwasher Issue,17,4
+942,128,CC Camera Issue,21,5
+943,114,Payment Issue,1,4
+944,27,CC Camera Issue,20,2
+945,71,CC Camera Issue,20,5
+946,58,Delivey Package Problem,2,2
+947,50,Dishhwasher Issue,13,3
+948,56,Heater Issue,13,5
+949,89,CC Camera Issue,19,3
+950,21,Food Price Issue,22,4
+951,114,Heater Issue,13,3
+952,79,Flush Issue,11,3
+953,38,Serving Issue,23,4
+954,10,Flush Issue,7,3
+955,66,Delivey Package Problem,1,3
+956,4,Payment Issue,3,3
+957,50,Delivey Package Problem,2,5
+958,60,Heater Issue,17,3
+959,48,Trash Can Issue,8,4
+960,104,CC Camera Issue,20,4
+961,20,Dishhwasher Issue,16,5
+962,62,Serving Issue,23,5
+963,100,Payment Issue,3,4
+964,35,Kitchen Sink Issue,12,4
+965,75,CC Camera Issue,19,3
+966,120,Dishhwasher Issue,17,4
+967,113,Delivey Package Problem,2,4
+968,58,Lift Issue,21,5
+969,96,Food Quality Issue,23,2
+970,53,Access Key Problem,4,3
+971,91,Payment Issue,2,2
+972,102,Food Quality Issue,24,2
+973,15,Lift Issue,21,3
+974,35,Dishhwasher Issue,17,5
+975,4,Serving Issue,23,5
+976,93,Kitchen Sink Issue,12,4
+977,97,Dishhwasher Issue,14,4
+978,41,Food Price Issue,24,2
+979,81,Delivey Package Problem,2,5
+980,68,Dishhwasher Issue,15,3
+981,35,Heater Issue,16,5
+982,44,Dishhwasher Issue,16,4
+983,12,CC Camera Issue,19,2
